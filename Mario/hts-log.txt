@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Apr 2023 01:47:37 at http://super-mario3d-world.net/?utm_source=facebook&utm_medium=cpc_costs_per_clickks&utm_campaign=camp1&fbclid=IwAR2SLu6_d5lwyRAv5iGVv8MwJxRUf8SaHjKy0H7urKQTSl1IOISDUF82xVo +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://super-mario3d-world.net/?utm_source=facebook&utm_medium=cpc_costs_per_clickks&utm_campaign=camp1&fbclid=IwAR2SLu6_d5lwyRAv5iGVv8MwJxRUf8SaHjKy0H7urKQTSl1IOISDUF82xVo -O1 "C:\My Web Sites\Mario" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bat.bing.com/p/action/16004518.js (from super-mario3d-world.net/?utm_source=facebook&utm_medium=cpc_costs_per_clickks&utm_campaign=camp1&fbclid=IwAR2SLu6_d5lwyRAv5iGVv8MwJxRUf8SaHjKy0H7urKQTSl1IOISDUF82xVo)
+02:43:18	Error: 	"Not Found" (404) at link super-mario3d-world.net/"https://cdn.cookielaw.org/logos/50b45312-ab08-436b-adc7-79156d8394f7/fbf3549c-4010-4bc2-8e8e-7077219d886e/a9e434c0-45f5-46cf-8f9c-c267f3130104/grey_racetrack.png" (from super-mario3d-world.net/?utm_source=facebook&utm_medium=cpc_costs_per_clickks&utm_campaign=camp1&fbclid=IwAR2SLu6_d5lwyRAv5iGVv8MwJxRUf8SaHjKy0H7urKQTSl1IOISDUF82xVo)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/modules/outdated/images/bg-modal.png (from super-mario3d-world.net/assets/css/microsite.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/modules/outdated/images/bg-overlay.png (from super-mario3d-world.net/assets/css/microsite.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/modules/outdated/images/wario-waluigi-ball.png (from super-mario3d-world.net/assets/css/microsite.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/sprite/nosvg.png?_=b58750b (from super-mario3d-world.net/assets/css/alps.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/png/nosvg/icon_close.png (from super-mario3d-world.net/assets/css/alps.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/png/nosvg/icon_logout.png (from super-mario3d-world.net/assets/css/alps.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/png/nosvg/icon_setting.png (from super-mario3d-world.net/assets/css/alps.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/png/nosvg/icon_guest.png (from super-mario3d-world.net/assets/css/alps.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/icon_mii_none.png (from super-mario3d-world.net/assets/css/alps.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/png/nosvg/icon_mii_none.png (from super-mario3d-world.net/assets/css/alps.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/pattern_x.png (from super-mario3d-world.net/assets/css/alps.css)
+02:43:54	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/sprite/account.png?_=16baf35 (from super-mario3d-world.net/assets/css/alps.css)
+02:43:55	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/sprite/account/@2x.png?_=8a39a06 (from super-mario3d-world.net/assets/css/alps.css)
+02:43:55	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/icon_mii_none_s.png (from super-mario3d-world.net/assets/css/alps.css)
+02:43:55	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/img/png/nosvg/icon_mii_none_s.png (from super-mario3d-world.net/assets/css/alps.css)
+02:43:55	Error: 	"Not Found" (404) at link super-mario3d-world.net/Trident/ (from https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement.min.js)
+02:43:55	Error: 	"Not Found" (404) at link super-mario3d-world.net/POST (from https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement.min.js)
+02:43:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bat.bing.com/p/action/16004518.js (from super-mario3d-world.net/?utm_source=facebook&utm_medium=cpc_costs_per_clickks&utm_campaign=camp1&fbclid=IwAR2SLu6_d5lwyRAv5iGVv8MwJxRUf8SaHjKy0H7urKQTSl1IOISDUF82xVo)
+02:44:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 9475575 got 8501787): super-mario3d-world.net/assets/videos/play-together/PlayTogether_7sec-m.mp4
+02:45:00	Warning: 	Retry after error -4 (Incorrect length (8501787 Bytes, 9475575 expected)) at link super-mario3d-world.net/assets/videos/play-together/PlayTogether_7sec-m.mp4 (from super-mario3d-world.net/play-together/)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/assets/is/all.min.js (from super-mario3d-world.net/play-together/)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/media.nintendo.com/share/nclood/stable/en-us/bundles/microsite.css (from super-mario3d-world.net/bowsers-fury/)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/GET (from https://assets.adobedtm.com/0216612597a6/b80235efd36c/launch-9d979f097026.min.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/Unable to load target-vec.js (from https://assets.adobedtm.com/0216612597a6/b80235efd36c/launch-9d979f097026.min.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/Loading target-vec.js (from https://assets.adobedtm.com/0216612597a6/b80235efd36c/launch-9d979f097026.min.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/get (from https://assets.adobedtm.com/0216612597a6/b80235efd36c/launch-9d979f097026.min.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/config.js (from https://cdn.pricespider.com/1/lib/ps-widget.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/{0}//{1}/ (from https://cdn.pricespider.com/1/lib/2.4.47/ps-widget.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/src/ (from https://cdn.pricespider.com/1/lib/2.4.47/ps-widget.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/S/ (from https://cdn.pricespider.com/1/lib/2.4.47/ps-widget.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/vendor/handlebars-3.0.3/custom/handlebars.min.js (from https://cdn.pricespider.com/1/lib/2.4.47/ps-widget.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/vendor/handlebars-3.0.3/custom/handlebars.runtime.min.js (from https://cdn.pricespider.com/1/lib/2.4.47/ps-widget.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/lib/ps-inspect.js (from https://cdn.pricespider.com/1/lib/2.4.47/ps-widget.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/vendor/socketio/2.3.0/socket-io.js (from https://cdn.pricespider.com/1/lib/2.4.47/ps-widget.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/wtbstream.pricespider.com/ (from https://cdn.pricespider.com/1/lib/2.4.47/ps-widget.js)
+02:45:01	Error: 	"Not Found" (404) at link super-mario3d-world.net/data/ (from https://cdn.pricespider.com/1/lib/2.4.47/ps-widget.js)
+02:45:05	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://bat.bing.com/p/action/16004518.js (from super-mario3d-world.net/?utm_source=facebook&utm_medium=cpc_costs_per_clickks&utm_campaign=camp1&fbclid=IwAR2SLu6_d5lwyRAv5iGVv8MwJxRUf8SaHjKy0H7urKQTSl1IOISDUF82xVo)
+
+HTTrack Website Copier/3.49-2 mirror complete in 58 minutes 3 seconds : 351 links scanned, 311 files written (88248735 bytes overall) [86227581 bytes received at 24756 bytes/sec], 3177192 bytes transferred using HTTP compression in 97 files, ratio 27%, 3.1 requests per connection
+(35 errors, 4 warnings, 0 messages)
